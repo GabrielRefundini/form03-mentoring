@@ -152,6 +152,7 @@ textarea {
   border: 1px solid #e6e6f0;
   background: #fafafc;
   padding: 1.5rem;
+  resize: none;
 }
 .checkbox-wrapper {
   margin-bottom: 3.6rem;
